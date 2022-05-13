@@ -12,64 +12,48 @@ Due to concerns of dishonesty regarding math and reading scores at Thomas High S
 ### How is the district summary affected?
 The district summary is minimally affected.
 - Initial District Summary Results: 
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Old%20District%20Summary.png)
-<br>
 - Revised District Summary Results: 
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/New%20District%20Summary.png)
-<br>
 
 ### How is the school summary affected?
 After replacing the math and reading scores for Thomas High School, there's a minimal decrease to the overall passing test score column:
 - Initial School Summary Results:
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Thomas%20High%20School_Old%20School%20Summary.png)
-<br>
 - Revised School Summary Results: 
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Thomas%20High%20School_New%20School%20Summary.png)
-<br>
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' math and reading scores does not greatly affect Thomas High School's ranking among other schools as it remains at second place within the top five schools.
-<br>
 
 ### How does replacing the ninth-grade scores affect the following:
 #### - Math and reading scores by grade: 
 Math and reading scores now show "nan" for the ninth grade column
 - Math:
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Math%20Scores_nan.png)
-<br>
 - Reading: 
-<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Reading%20Scores_nan.png)
-<br>
 
 #### - Scores by school spending: 
- The spending range of $630-644 sees a 1% decrease (84% decreased to 83%) in the "% Passing Reading" column.
- <br>
+The spending range of $630-644 sees a 1% decrease (84% decreased to 83%) in the "% Passing Reading" column.
+- Original: 
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending_orig.png)
-<br>
+- Revised: 
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
-<br>
 
 #### - Scores by school size: 
 The scores by school size section is generally unaffected.
-<br>
+- Original: 
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Size_orig.png)
-<br>
+- Revised:
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
-<br>
 
 #### - Scores by school type: 
 The scores by school size section is generally unaffected.
-<br>
+- Original: 
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Type_orig.png)
-<br>
+- Revised:
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Type.png)
-<br>
 
 ## Summary
 Generally the data did not drastically change after reconducting the analysis. Below are the four main impacts:
