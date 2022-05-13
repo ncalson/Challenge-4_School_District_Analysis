@@ -12,18 +12,22 @@ Due to concerns of dishonesty regarding math and reading scores at Thomas High S
 ### How is the district summary affected?
 The district summary is minimally affected.
 - Initial District Summary Results: 
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Old%20District%20Summary.png)
 <br>
 - Revised District Summary Results: 
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/New%20District%20Summary.png)
 <br>
 
 ### How is the school summary affected?
 After replacing the math and reading scores for Thomas High School, there's a minimal decrease to the overall passing test score column:
 - Initial School Summary Results:
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Thomas%20High%20School_Old%20School%20Summary.png)
 <br>
 - Revised School Summary Results: 
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Thomas%20High%20School_New%20School%20Summary.png)
 <br>
 
@@ -35,14 +39,17 @@ Replacing the ninth graders' math and reading scores does not greatly affect Tho
 #### - Math and reading scores by grade: 
 Math and reading scores now show "nan" for the ninth grade column
 - Math:
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Math%20Scores_nan.png)
 <br>
 - Reading: 
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Reading%20Scores_nan.png)
 <br>
 
 #### - Scores by school spending: 
  The spending range of $630-644 sees a 1% decrease (84% decreased to 83%) in the "% Passing Reading" column.
+ <br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending_orig.png)
 <br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
@@ -50,6 +57,7 @@ Math and reading scores now show "nan" for the ninth grade column
 
 #### - Scores by school size: 
 The scores by school size section is generally unaffected.
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Size_orig.png)
 <br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
@@ -57,6 +65,7 @@ The scores by school size section is generally unaffected.
 
 #### - Scores by school type: 
 The scores by school size section is generally unaffected.
+<br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Type_orig.png)
 <br>
 ![this is an image](https://github.com/ncalson/Challenge-4_School_District_Analysis/blob/main/Scores%20by%20School%20Type.png)
